@@ -1,0 +1,12 @@
+path: C:/Users/SONAKSHI GOYAL/Desktop/project
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: person
+  1: Referee
+  2: Goal-Keeper
+  3: Other
+  4: Team 1
